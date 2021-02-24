@@ -7,4 +7,5 @@ Yeah, I am an official Rockstar developer now. [codewithrockstar.com](https://ww
 
 # Index
 
- - [Sum Of List](sum_of_list.rock)
+ - [Sum Of List](sum_of_list.rock) takes a list of ints and spits out the sum
+ - [Word Count](wordcount.rock) counts charters and words in a line of input
