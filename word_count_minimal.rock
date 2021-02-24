@@ -1,0 +1,28 @@
+( Rockstar implemetation of the clasic )
+( unix / K&R wc or word count utility  )
+( counts words and charcter on 1 line  )
+(               of input               )
+
+Let Char Count be nothing
+Let Word Count be nothing
+Let character be ture
+
+Listen to input
+Split input into Input Array
+
+the state is false
+Until Input Array is empty
+Build Char Count up
+Roll Input Array into character
+If character is false (if it's a space)
+Let the state be false
+
+Else 
+If the state is false
+Let the state be true
+Build Word Count up 
+
+
+
+Say "words " plus Word Count
+Shout "characters " plus Char Count
